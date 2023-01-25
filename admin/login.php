@@ -56,7 +56,7 @@ $format = new Format();
                         echo "<script>alert('No result !');</script>";
                     }
                 } else {
-                    echo "<script>alert('Username et mot de passe ne corresponde pas !');</script>";
+                    echo "<script>alert('Username et mot de passe ne correspondent pas !');</script>";
                 }
             }
 
